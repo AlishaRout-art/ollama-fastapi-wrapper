@@ -27,21 +27,17 @@ A lightweight REST API built with **FastAPI** that provides a clean interface fo
 
 ---
 
-## Project Structure
+## 📁 Project Structure
 
+```text
+local-llm-api/
+│
+├── 📄 server.py          # FastAPI application
+├── 📄 requirements.txt   # Project dependencies
+├── 📄 README.md          # Project documentation
+├── 📄 LICENSE            # MIT License
+└── 📄 .gitignore         # Git ignore rules
 ```
-
-.
-├── server.py
-├── requirements.txt
-├── README.md
-├── .gitignore
-└── LICENSE
-
-````
-
----
-
 ## Installation
 
 Clone the repository
